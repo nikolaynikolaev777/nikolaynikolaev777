@@ -7,7 +7,7 @@
 
 <h4 align="center">I’m currently learning Web Development, Frond-End, and other programming languages.</h4>
 
-<h3 align="center">Social Links:</h3> 
+<h3 align="center">Social Links</h3> 
     <p align="center">
         <a href="https://www.facebook.com/profile.php?id=100025235076249" target="_blank"><img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
@@ -25,7 +25,7 @@
 
 <br>
 
-<h4 align="center">Languages and Tools:</h4>
+<h4 align="center">Languages and Tools</h4>
     <p align="center">
         <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
@@ -55,13 +55,13 @@
 
 <br>
 
-<h3 align="center">Statistical Data :-</h3>
+<h3 align="center">Statistical Data</h3>
     <p align="center">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?  username=nikolaynikolaev777&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact" alt="niki nikolaev" bg_color=#808080/></p>
+        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nikolaynikolaev777&show_icons=true&locale=en&bg_color=ffffff&text_color=000000&layout=compact" alt="niki nikolaev" bg_color=#808080/></p>
 
 <br>
 
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nikolaynikolaev777&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat"
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nikolaynikolaev777&show_icons=true&locale=en&bg_color=232323&text_color=ffffff&repo=myProject"
     alt="niki nikolaev" /></p>
 
 <br>
