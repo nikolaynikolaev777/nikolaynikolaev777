@@ -1,7 +1,8 @@
 <h1 align="center">👋 Hi, I'm Niki Nikolaev</h1>
 <h5 align="center">Student at SoftUni.</h3>
 
-<p align="center"></h3> <img src="https://komarev.com/ghpvc/?username=nikolaynikolaev777&label=Profile%20views&color=5E1C73&style=flat" alt="nikinikolaev777" /></p>
+<p align="center"></h3> <img src="https://komarev.com/ghpvc/?username=nikolaynikolaev777&label=Profile%20views&color=5E1C73&style=flat" alt="nikinikolaev777" /></p>![132300](https://user-images.githubusercontent.com/99727402/170868541-9aa29467-3441-4708-a97f-adda1d269a1a.jpg)
+
 
 <br>
 
@@ -67,5 +68,14 @@
 <br>
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nikolaynikolaev777&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="niki nikolaev" /></p>
+
+<br>
+
+<h3 align="center">CERTIFICAE</h3>
+    <p align="center">
+        <a href="https://softuni.bg/certificates/details/132300/82c54fb0" target="_blank">
+        <img align="center" src="https://ibb.co/WtPs4NV" 
+        alt="programbasicsertificate" height="100" width="60" /></a>
+
 
 [Nikolay Nikolaev](https://github.com/nikolaynikolaev777)
