@@ -9,16 +9,16 @@
 
 <h3 align="center">Social Links:</h3> 
     <p align="center">
-        <a href="https://www.facebook.com/profile.php?id=100025235076249" target="blank"><img align="center"
+        <a href="https://www.facebook.com/profile.php?id=100025235076249" target="_blank"><img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
             alt="Niki Nikolaev" height="25" width="30" /></a>
-        <a href="https://www.instagram.com/ni_ki_7777/" target="blank"><img align="center"
+        <a href="https://www.instagram.com/ni_ki_7777/" target="_blank"><img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
             alt="ni_ki_7777" height="25" width="30" /></a>
-        <a href="https://twitter.com/Nikolay03442064" target="blank"><img align="center"
+        <a href="https://twitter.com/Nikolay03442064" target="_blank"><img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
             alt="nikolay" height="25" width="30" /></a>
-        <a href="https://www.linkedin.com/in/nikolay-nikolaev-142934231/" target="blank"><img align="center"
+        <a href="https://www.linkedin.com/in/nikolay-nikolaev-142934231/" target="_blank"><img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
             alt="niki nikolaev" height="25" width="30" /></a>
     </p>
